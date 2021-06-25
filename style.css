@@ -9,22 +9,6 @@
     color: var(--textGRAY);
 }
 
-
-/*
-Legend:
-    (00) Root 
-    (01) Style Color&Font
-        (1.1) Botton
-        (1.2) 
-    (02) CSS Grid
-        (2.1) 
-        (2.2) 
-        (2.3) 
-    (S) Media Device 
-        (S.1) Media Tablet
-        (S.2) Media smartphone
-*/
-
 /* (00) Root  */
 :root {
     /* palette di base*/
